@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "zuzu",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "dependencies": {}
 }
